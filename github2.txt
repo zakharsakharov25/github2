@@ -5,4 +5,4 @@ var fix()
 var a = 'zakhar'
 var b = 'hello'
 print(a + b)
-
+}
