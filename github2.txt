@@ -1,1 +1,8 @@
-12323131231
+hello world
+I'm Zakhar program.
+{
+var fix()
+var a = 'zakhar'
+var b = 'hello'
+print(a + b)
+
